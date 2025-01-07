@@ -78,7 +78,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeet-1577&show_icons=true&locale=en&theme=radical" alt="jeet-1577" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-1577&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeet-1577&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeet-1577&theme=radical" alt="Streak Stats" />
+
 </div>
 
 ---
